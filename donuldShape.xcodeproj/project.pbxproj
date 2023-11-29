@@ -11,6 +11,8 @@
 		A73C81E62B1798FC0076ED1E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A73C81E52B1798FC0076ED1E /* ContentView.swift */; };
 		A73C81E82B1798FD0076ED1E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A73C81E72B1798FD0076ED1E /* Assets.xcassets */; };
 		A73C81EB2B1798FD0076ED1E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A73C81EA2B1798FD0076ED1E /* Preview Assets.xcassets */; };
+		A73C81F22B1799280076ED1E /* Circular.swift in Sources */ = {isa = PBXBuildFile; fileRef = A73C81F12B1799280076ED1E /* Circular.swift */; };
+		A73C81F62B17A0260076ED1E /* UI.swift in Sources */ = {isa = PBXBuildFile; fileRef = A73C81F52B17A0260076ED1E /* UI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		A73C81E52B1798FC0076ED1E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A73C81E72B1798FD0076ED1E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A73C81EA2B1798FD0076ED1E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A73C81F12B1799280076ED1E /* Circular.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Circular.swift; sourceTree = "<group>"; };
+		A73C81F52B17A0260076ED1E /* UI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				A73C81E32B1798FC0076ED1E /* donuldShapeApp.swift */,
 				A73C81E52B1798FC0076ED1E /* ContentView.swift */,
+				A73C81F12B1799280076ED1E /* Circular.swift */,
+				A73C81F52B17A0260076ED1E /* UI.swift */,
 				A73C81E72B1798FD0076ED1E /* Assets.xcassets */,
 				A73C81E92B1798FD0076ED1E /* Preview Content */,
 			);
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				A73C81E62B1798FC0076ED1E /* ContentView.swift in Sources */,
+				A73C81F22B1799280076ED1E /* Circular.swift in Sources */,
+				A73C81F62B17A0260076ED1E /* UI.swift in Sources */,
 				A73C81E42B1798FC0076ED1E /* donuldShapeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
